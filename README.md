@@ -5,7 +5,7 @@
 
 
 ### 👋 Hey, I'm Mahdi!
-### 💻 Frontend Developer Focusing on ReactJS.
+### 💻 Frontend Developer Focusing on NextJS.
 ### 🚀 Always learning, building cool stuff, and exploring new ideas.
 ### 🎯 Looking to join a fun, energetic team where I can grow and contribute.
 
@@ -19,7 +19,7 @@
 
 
 ### 👋 سلام! من مهدی‌ هستم
-### 💻 توسعه‌دهنده فرانت‌اند با تمرکز روی ReactJS
+### 💻 توسعه‌دهنده فرانت‌اند با تمرکز روی NextJS
 ### 🚀 همیشه در حال یادگیری و ساخت چیزهای جذاب و امتحان ایده‌های جدیدم.
 ### 🎯 دنبال یه تیم باحال و پرانرژی هستم که بتونم توش رشد کنم و کمک کنم.
 
